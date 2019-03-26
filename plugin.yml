@@ -9,7 +9,7 @@ categories:
   - Featured
 sources:
   - https://github.com/codefresh-contrib/cf-gitlab-mr-annotate
-icon: https://github.com/codefresh-plugins/cf-gitlab-mr-annotate/blob/master/icon.jpg
+icon: https://raw.githubusercontent.com/codefresh-plugins/cf-gitlab-mr-annotate/blob/master/icon.jpg
 maintainers:
   - name: Alex Kogan
 envs:
