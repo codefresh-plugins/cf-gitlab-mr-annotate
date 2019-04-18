@@ -6,7 +6,7 @@ keywords:
   - merge
   - annotate
 categories:
-  - Git
+  - git
 sources:
   - https://github.com/codefresh-contrib/cf-gitlab-mr-annotate
 icon: https://raw.githubusercontent.com/codefresh-plugins/cf-gitlab-mr-annotate/master/icon.jpg
