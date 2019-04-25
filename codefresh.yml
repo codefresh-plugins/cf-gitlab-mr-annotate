@@ -8,4 +8,6 @@ steps:
     type: push
     title: Pushing To Registry
     candidate: ${{BuildImage}}
-    tag: "0.1"
+    tags:
+      - "0.1"
+      - "latest"

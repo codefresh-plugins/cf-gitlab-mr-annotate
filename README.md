@@ -6,7 +6,7 @@ The plugin allows for easy applying labels to GitLab merge requests from a Codef
 
 ```
 AnnotateMR:
-  image: codefresh/gitlab-mr-annotate
+  image: codefreshplugins/gitlab-mr-annotate
   environment:
     - GIT_CONTEXT=my_gitlab_context_name
     - LABELS=my_label1,my_label2,my_label_n
